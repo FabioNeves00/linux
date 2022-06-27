@@ -7,7 +7,7 @@
  *  Copyright (C) 2008-2011 Red Hat, Inc., Peter Zijlstra
  *  Copyright  ©  2009 Paul Mackerras, IBM Corp. <paulus@au1.ibm.com>
  */
-
+//Eu estive aqui @Fabio tmj linus te amo
 #include <linux/fs.h>
 #include <linux/mm.h>
 #include <linux/cpu.h>
